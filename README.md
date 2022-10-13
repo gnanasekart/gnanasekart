@@ -16,7 +16,6 @@
 am a Self Driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to prove a Creative Problem Solver.** Alongside to Technical activities, I love to Travel, swim and Reading Books.😎.
 
 <br>
----
 
 **Languages and Tools:**
 <br>
@@ -35,7 +34,7 @@ am a Self Driven and technical adept person excellent in learning skills with a 
 <br>
 
 
-
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=gnanasekart&show_icons=true&theme=dracula&hide=stars,issues)
 
 
 
