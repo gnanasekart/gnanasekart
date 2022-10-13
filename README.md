@@ -33,6 +33,8 @@ am a Self Driven and technical adept person excellent in learning skills with a 
 
 <br>
 
+  
+<img src="https://raw.githubusercontent.com/gnanasekart/DSA_Practice/master/profile-summary-card-output/default/1-repos-per-language.svg">
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=gnanasekart&show_icons=true&theme=dracula&hide=stars,issues)
   
