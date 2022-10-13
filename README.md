@@ -35,6 +35,8 @@ am a Self Driven and technical adept person excellent in learning skills with a 
 
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=gnanasekart&show_icons=true&theme=dracula&hide=stars,issues)
+  
+![pv](https://pageview.vercel.app/?github_user=gnanasekart)
 
 
 
