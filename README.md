@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Gnana sekar, Automation Test Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Bangalore, INDIA</b>,. </p>
+<p>Welcome to my page! </br>Hi, I'm Gnana sekar, Automation Test Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Bangalore, INDIA</b>,. </p>
 <h3>You can have touch with me here</h3>
 
 
@@ -13,7 +13,7 @@
 
 <br>
 
-Hi, I'm a Self Driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to prove a Creative Problem Solver.** Alongside to Technical activities, I love to Travel, swim and Reading Books.😎.
+am a Self Driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to prove a Creative Problem Solver.** Alongside to Technical activities, I love to Travel, swim and Reading Books.😎.
 
 <br>
 ---
