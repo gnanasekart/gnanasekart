@@ -13,7 +13,7 @@
 
 <br>
 
-am a Self Driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to prove a Creative Problem Solver.** Alongside to Technical activities, I love to Travel, 🏊‍♂️ swim and Reading Books.😎.
+Am a self driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to prove a Creative Problem Solver.** Alongside to Technical activities, I love to Travel, 🏊‍♂️ swim and Reading Books.😎.
 
 <br>
 
