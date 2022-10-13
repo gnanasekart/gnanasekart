@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/gnana-sekar-thangavel-sdet/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/tgs69/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/leetcode.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://" target="_blank"><img height="30" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/medium.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gnana-sekar-thangavel-sdet/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/gnanasekar69/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 
 <br>
