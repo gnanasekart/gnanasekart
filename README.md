@@ -13,8 +13,7 @@
 
 <br>
 
-Hi, I'm a Self Driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to proven a Create Problem Solver.** Alongside to Technical activities, I love to Travel, swim and Reading Books.
-I support Manchester United 👿 and Barcelona 😎.
+Hi, I'm a Self Driven and technical adept person excellent in learning skills with a sharp analytical mind-set. I love initiate and attempt to prove a Creative Problem Solver.** Alongside to Technical activities, I love to Travel, swim and Reading Books.😎.
 
 <br>
 ---
@@ -22,16 +21,16 @@ I support Manchester United 👿 and Barcelona 😎.
 **Languages and Tools:**
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/selenium.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/rest-assured.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/selenium.svg?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/rest-assured.png?raw=true"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/cypress.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/java.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/javascript.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/jenkins.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/git.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/jmeter.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/docker.svg?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/kubermetes.svg?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/java.png?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/javascript.png?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/jenkins.png?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/git.png?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/jmeter.png?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/docker.png?raw=true"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gnanasekart/gnanasekart/master/resources/png/kubermetes.png?raw=true"/></code>
 
 <br>
 
